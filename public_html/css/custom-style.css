@@ -13,3 +13,12 @@ div {
     border-color: red;
 }
 
+.list-group-item{
+    border: 0;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+body{
+    background-image: url("http://4.bp.blogspot.com/-FixFUtLJAfw/T2j7YATlv7I/AAAAAAAAALE/VjilvplXcJc/s1600/BioShock2-littlesisterscreenshot.jpg")
+}
+
