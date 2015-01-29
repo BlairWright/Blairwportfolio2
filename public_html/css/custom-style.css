@@ -1,5 +1,5 @@
 div {
-    border-style: solid;
+    border-style: hidden;
     border-width: 5px;
     border-color: green;
     padding: 30px;
@@ -18,8 +18,8 @@ div {
     margin-top: 40px;
     margin-bottom: 40px;
 }
-body{
-    background-image: url("http://hdwallpapersfactory.com/wallpaper/radioactive_orange_here_you_go_captcha_conviction_ploops_desktop_1280x800_hd-wallpaper-785711.jpg")
+.bodyI{
+    background-image: url('http://studentweb.wilkes.edu/ayman.hamoh/photogallery/04-%20backgrounds/daylight-in-darkcity---1600x1200-wallpaper-jpg.jpg')
 }
 .header{
     font-size: 35px;
